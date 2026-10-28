@@ -73,8 +73,21 @@ function windowResized() {
 // ========================================
 
 function setup() {
+
   createCanvas(400, 400);
-  background(81,237,247);
+
+  background(81, 237, 247);
+
+}
+
+function draw() {
+
+  if (window.previewMode) {
+
+    background(81, 237, 247);
+
+  }
+
 }
 
 function mouseDragged() {
