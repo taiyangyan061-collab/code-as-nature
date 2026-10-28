@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>⭐︎ Open Portal ⭐︎</h1>
+  </body>
+</html>
